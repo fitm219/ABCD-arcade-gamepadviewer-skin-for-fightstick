@@ -1,0 +1,8 @@
+#gamepads .controller.xbox {
+  background-image:
+    url("https://raw.githubusercontent.com/fitm219/ABCD-arcade-gamepadviewer-skin-for-fightstick/main/Carcasa_Banjo-Kazooie_de_plumas_y_piel-removebg-preview.png"),
+    url("xbox-assets/base.svg") !important;
+  background-size: 817px 545px, 750px 630px !important;
+  background-position: center 100px, center top !important;
+  background-repeat: no-repeat !important;
+}
